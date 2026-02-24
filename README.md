@@ -60,6 +60,7 @@ Este repo incluye `render.yaml` para crear el servicio desde Render Blueprint.
 ## Guías y plantillas reutilizables
 
 - Guía de adopción a Blueprint para el servicio actual: `docs/RENDER_BLUEPRINT_ADOPCION.md`
+- Runbook operativo diario (deploy, DNS, SSL, rollback): `docs/OPERACION_RENDER_DNS_SSL.md`
 - Guía específica para futuro thread `meteoTrader` (web + Render + DonDominio + SSL): `docs/METEOTRADER_WEB_MVP_GUIA.md`
 - Plantilla reusable para futuros proyectos Streamlit + Render + DonDominio:
   - `templates/render-streamlit/README.template.md`
