@@ -1,0 +1,27 @@
+# macOS / IDE
+.DS_Store
+.idea/
+*.iml
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Android / Gradle
+android/.gradle/
+android/.kotlin/
+android/build/
+android/app/build/
+android/local.properties
+
+# Artifacts
+*.apk
+*.aab
